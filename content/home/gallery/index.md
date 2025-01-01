@@ -9,4 +9,4 @@ title = "Gallery"
 subtitle = "I have done many projects, here is some featured image"
 +++
 
-{{< gallery >}}
+{{<gallery>}}
